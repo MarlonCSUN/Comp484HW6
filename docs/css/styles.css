@@ -35,13 +35,14 @@ p {
 
 li {
     font-size: 16px;
-    font-weight: 550;
+    font-weight: 500;
 }
 
 /* Header & Footer 
 ------------------------------------*/
 header, footer {
     background-color: #355872;
+    padding: 20px;
 }
 
 a {
@@ -54,6 +55,7 @@ a {
 ------------------------------------*/
 section.experience {
     background-color: #7AAACE;
+    padding: 20px;
 }
 
 
@@ -61,4 +63,5 @@ section.experience {
 ------------------------------------*/
 section.education {
     background-color: #9CD5FF;
+    padding: 20px;
 }
